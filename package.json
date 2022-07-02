@@ -1,0 +1,21 @@
+{
+  "name": "ping-pong-game",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/5EGFAULT/ping-pong-game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/5EGFAULT/ping-pong-game/issues"
+  },
+  "homepage": "https://github.com/5EGFAULT/ping-pong-game#readme"
+}
