@@ -6,3 +6,4 @@
   - [ ] - Fix glitches when the ball hits the bar
   - [ ] - add bar animation when ball hits a bar
   - [ ] - add a power up
+  - [ ] - add on resize change canvas size ..
