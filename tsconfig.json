@@ -1,10 +1,10 @@
 {
 	"compilerOptions": {
-	  "module": "es6",
+	  "module": "ES6",
 	  "noImplicitAny": true,
 	  "removeComments": true,
 	  "preserveConstEnums": true,
-	  "sourceMap": true,
+	  "sourceMap": false,
 	  "outDir": "./dist",
 	},
 	"include": ["src/**/*"],
